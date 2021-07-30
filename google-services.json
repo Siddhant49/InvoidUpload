@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169803643448",
+    "project_id": "invoidupload",
+    "storage_bucket": "invoidupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169803643448:android:e12bd0a0531434e34f44cd",
+        "android_client_info": {
+          "package_name": "com.example.invoidupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169803643448-5k5ebasftv4gv1rmgup3brh5k9mp0s10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invoidupload",
+            "certificate_hash": "3f37dfe1a14f1574580022bf8cbcf5a93d07f715"
+          }
+        },
+        {
+          "client_id": "169803643448-5i86a9n8jldei2bt9co88a95f6ock8ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEllwk8iSr0TtP50ZVO3ziimM3mrlPP1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169803643448-5i86a9n8jldei2bt9co88a95f6ock8ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
